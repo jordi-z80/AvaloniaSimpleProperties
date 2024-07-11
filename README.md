@@ -29,3 +29,7 @@ public int Value
 
 This covers 99% of my Avalonia use cases. If you need more complex properties, just use the standard code.
 
+Nuget install:
+```
+dotnet add package AvaloniaSimpleProperties
+```
